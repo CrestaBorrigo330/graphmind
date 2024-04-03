@@ -1,0 +1,34 @@
+{
+  "name": "graphmind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrestaBorrigo330/graphmind.git"
+  },
+  "author": "CrestaBorrigo330",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CrestaBorrigo330/graphmind/issues"
+  },
+  "homepage": "https://github.com/CrestaBorrigo330/graphmind#readme",
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "is-array": "^1.0.1",
+    "is-bool": "^0.0.3",
+    "is-number": "^7.0.0",
+    "is-object": "^1.0.2",
+    "koa": "^2.15.2",
+    "lazy-store-loader": "^2.0.3",
+    "lodash": "^4.17.21",
+    "nodemon": "^3.1.0",
+    "qs": "^6.12.0",
+    "webpack": "^5.91.0",
+    "cyto-builder": "^1.0.0",
+    "cyto-tracer": "^1.0.0"
+  }
+}
